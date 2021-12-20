@@ -95,7 +95,7 @@ export default {
   height: 45px;
   padding: 5px 5px 5px 16px;
   box-shadow: 0px 1px 1px 1px rgba(204, 204, 204, 0.2);
-  background-color: rgba(108, 117, 125, 0.1) !important;
+  background-color: #efefef !important;
   border-radius: 40px;
   z-index: 2;
   &:focus {
@@ -103,7 +103,7 @@ export default {
   }
   &:hover,
   &:visited {
-    background-color: rgba(108, 117, 125, 0.2) !important;
+    background-color: #adadad !important;
   }
   &__img {
     height: 30px;
@@ -130,8 +130,8 @@ export default {
 }
 
 .div-profile-btn-img {
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   margin-left: 8px;
 }
 

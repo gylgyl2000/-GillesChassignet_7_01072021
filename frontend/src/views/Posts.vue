@@ -5,7 +5,7 @@
     <b-row class="align-items-center text-center justify-content-center">
       <b-col cols="12" lg="6">
         <b-card
-          class="mx-auto mb-2 mt-lg-3 mb-lg-5 border-0 shadow px-lg-3 pt-lg-4 bg-white rounded"
+          class="mx-auto mb-2 mt-lg-3 mb-lg-10 border-0 shadow px-lg-3 pt-lg-6 bg-white rounded"
         >
           <CreatePost />
         </b-card>

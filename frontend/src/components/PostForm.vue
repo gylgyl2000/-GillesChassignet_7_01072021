@@ -141,7 +141,7 @@ export default {
   display: block;
   width: 100%;
   height: 1px;
-  background-color: rgba(192, 192, 192, 0.5);
+  background-color: #d1515a;
 }
 
 .create-button {

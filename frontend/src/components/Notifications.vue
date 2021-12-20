@@ -108,14 +108,14 @@ export default {
   top: 22px;
   right: 175px;
   box-shadow: 0px 1px 1px 1px rgba(204, 204, 204, 0.2);
-  background-color: rgba(108, 117, 125, 0.1) !important;
+  background-color: #efefef !important;
   border-radius: 100%;
   width: 42px;
   height: 42px;
   border: none;
   z-index: 2;
   &:hover {
-    background-color: rgba(108, 117, 125, 0.2) !important;
+    background-color: #adadad !important;
   }
   &:focus {
     outline: none;
@@ -125,7 +125,7 @@ export default {
     right: -4px;
     font-size: 12px;
     border-radius: 100%;
-    background: red;
+    background: #d1515a;
     color: white;
     height: 20px;
     width: 20px;
