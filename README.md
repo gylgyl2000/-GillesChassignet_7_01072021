@@ -2,7 +2,7 @@
 
 ## Commencer
 
-`git clone git@github.com:gylgyl2000/GillesChassignet_7_01072021.git`
+`git clone git@github.com:gylgyl2000/Reseau-social-d-entreprise.git`
 
 ### Frontend :
 
