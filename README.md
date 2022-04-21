@@ -1,4 +1,4 @@
-# Création d'un réseau social d'entreprise
+# Réseau social d'entreprise
 
 ## Commencer
 
